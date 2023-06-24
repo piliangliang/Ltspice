@@ -4,4 +4,4 @@
 
 
 
-![image]().
+![image](https://github.com/piliangliang/Ltspice/blob/main/spice%E6%9D%A5%E6%BA%90.png).
